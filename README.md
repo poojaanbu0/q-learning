@@ -78,5 +78,4 @@ def q_learning(env,
 ![image](https://github.com/user-attachments/assets/166ef8cd-205a-46ed-8fa6-0bc351b713d8)
 
 ## RESULT:
-
-Write your result here
+Thus, Q-Learning outperformed Monte Carlo in finding the optimal policy and state values for the RL problem.
